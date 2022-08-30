@@ -1,0 +1,121 @@
+2022-08-30 10:35:40,919 - movieStepDef.class -INFO - *****************Entering 'Pushpa:The Rise' in Search Bar********************
+2022-08-30 10:35:44,776 - movieStepDef.class -INFO - **************User clicked on the Search Icon after entering the Movie Name*********************
+2022-08-30 10:35:49,158 - movieStepDef.class -INFO - **************User clicked on the Search Icon after entering the Movie Name*********************
+2022-08-30 10:41:26,699 - movieStepDef.class -INFO - *****************Entering 'Pushpa:The Rise' in Search Bar********************
+2022-08-30 10:41:30,419 - movieStepDef.class -INFO - **************User clicked on the Search Icon after entering the Movie Name*********************
+2022-08-30 10:41:34,625 - movieStepDef.class -INFO - **************User clicked on the Search Icon after entering the Movie Name*********************
+2022-08-30 11:02:18,640 - movieStepDef.class -INFO - *****************Entering 'Pushpa' in Search Bar********************
+2022-08-30 11:02:21,588 - movieStepDef.class -INFO - **************User clicked on the Search Icon after entering the Movie Name*********************
+2022-08-30 11:02:26,301 - movieStepDef.class -INFO - **************User clicked on the Part 1 of the movie from the result options*********************
+2022-08-30 11:06:22,150 - movieStepDef.class -INFO - *****************Entering 'Pushpa' in Search Bar********************
+2022-08-30 11:06:25,463 - movieStepDef.class -INFO - **************User clicked on the Search Icon after entering the Movie Name*********************
+2022-08-30 11:06:29,684 - movieStepDef.class -INFO - **************User clicked on the Part 1 of the movie from the result options*********************
+2022-08-30 11:08:07,943 - movieStepDef.class -INFO - *****************Entering 'Pushpa' in Search Bar********************
+2022-08-30 11:08:12,807 - movieStepDef.class -INFO - **************User clicked on the Search Icon after entering the Movie Name*********************
+2022-08-30 11:08:17,655 - movieStepDef.class -INFO - **************User clicked on the Part 1 of the movie from the result options*********************
+2022-08-30 11:08:17,789 - Connectivity_set.class -INFO - The Origin Coutry as per the IMDB is = India
+2022-08-30 11:08:25,359 - movieStepDef.class -INFO - **************User checks the Extract Country and release date of the movie*********************
+2022-08-30 11:36:42,286 - movieStepDef.class -INFO - *****************Entering 'Pushpa' in Search Bar********************
+2022-08-30 11:36:47,579 - movieStepDef.class -INFO - **************User clicked on the Search Icon after entering the Movie Name*********************
+2022-08-30 11:36:52,875 - movieStepDef.class -INFO - **************User clicked on the Part 1 of the movie from the result options*********************
+2022-08-30 11:36:53,261 - Connectivity_set.class -INFO - The Origin Coutry as per the IMDB is = India
+2022-08-30 11:37:00,339 - Connectivity_set.class -INFO - The Release date of Pushpa:The Rise as per the IMDB is = 17 December 2021
+2022-08-30 11:37:00,340 - movieStepDef.class -INFO - **************User checks the Extract Country and release date of the movie*********************
+2022-08-30 11:40:10,934 - movieStepDef.class -INFO - *****************Entering 'Pushpa' in Search Bar********************
+2022-08-30 11:40:14,650 - movieStepDef.class -INFO - **************User clicked on the Search Icon after entering the Movie Name*********************
+2022-08-30 11:40:19,550 - movieStepDef.class -INFO - **************User clicked on the Part 1 of the movie from the result options*********************
+2022-08-30 11:40:19,677 - Connectivity_set.class -INFO - The Origin Coutry as per the IMDB is = India
+2022-08-30 11:40:23,581 - Connectivity_set.class -INFO - The Release date of Pushpa:The Rise as per the IMDB is = 17 December 2021
+2022-08-30 11:40:23,581 - movieStepDef.class -INFO - **************User checks the Extract Country and release date of the movie*********************
+2022-08-30 11:41:58,795 - movieStepDef.class -INFO - *****************Entering 'Pushpa' in Search Bar********************
+2022-08-30 11:42:02,940 - movieStepDef.class -INFO - **************User clicked on the Search Icon after entering the Movie Name*********************
+2022-08-30 11:42:07,907 - movieStepDef.class -INFO - **************User clicked on the Part 1 of the movie from the result options*********************
+2022-08-30 11:42:08,109 - Connectivity_set.class -INFO - The Origin Coutry as per the IMDB is = India
+2022-08-30 11:42:12,718 - Connectivity_set.class -INFO - The Release date of Pushpa:The Rise as per the IMDB is = 17 December 2021
+2022-08-30 11:42:12,719 - movieStepDef.class -INFO - **************User checks the Extract Country and release date of the movie*********************
+2022-08-30 11:42:14,696 - movieStepDef.class -INFO - **************User opens a new tab and navigates to Wikipedia *********************
+2022-08-30 11:45:53,464 - movieStepDef.class -INFO - *****************Entering 'Pushpa' in Search Bar********************
+2022-08-30 11:45:56,828 - movieStepDef.class -INFO - **************User clicked on the Search Icon after entering the Movie Name*********************
+2022-08-30 11:46:02,403 - movieStepDef.class -INFO - **************User clicked on the Part 1 of the movie from the result options*********************
+2022-08-30 11:46:02,546 - Connectivity_set.class -INFO - The Origin Coutry as per the IMDB is = India
+2022-08-30 11:46:08,226 - Connectivity_set.class -INFO - The Release date of Pushpa:The Rise as per the IMDB is = 17 December 2021
+2022-08-30 11:46:08,226 - movieStepDef.class -INFO - **************User checks the Extract Country and release date of the movie*********************
+2022-08-30 11:46:09,144 - movieStepDef.class -INFO - **************User opens a new tab and navigates to Wikipedia *********************
+2022-08-30 11:46:09,224 - movieStepDef.class -INFO - **************User enters the search terms in the Wikipedia search bar *********************
+2022-08-30 11:46:13,059 - movieStepDef.class -INFO - **************User clicks on the Search button beside the searchbar *********************
+2022-08-30 11:59:25,591 - movieStepDef.class -INFO - *****************Entering 'Pushpa' in Search Bar********************
+2022-08-30 11:59:30,963 - movieStepDef.class -INFO - **************User clicked on the Search Icon after entering the Movie Name*********************
+2022-08-30 11:59:37,411 - movieStepDef.class -INFO - **************User clicked on the Part 1 of the movie from the result options*********************
+2022-08-30 12:01:18,022 - movieStepDef.class -INFO - *****************Entering 'Pushpa' in Search Bar********************
+2022-08-30 12:01:21,206 - movieStepDef.class -INFO - **************User clicked on the Search Icon after entering the Movie Name*********************
+2022-08-30 12:01:25,635 - movieStepDef.class -INFO - **************User clicked on the Part 1 of the movie from the result options*********************
+2022-08-30 12:04:43,823 - movieStepDef.class -INFO - *****************Entering 'Pushpa' in Search Bar********************
+2022-08-30 12:04:47,462 - movieStepDef.class -INFO - **************User clicked on the Search Icon after entering the Movie Name*********************
+2022-08-30 12:04:51,829 - movieStepDef.class -INFO - **************User clicked on the Part 1 of the movie from the result options*********************
+2022-08-30 12:04:51,944 - Connectivity_set.class -INFO - The Origin Coutry as per the IMDB is = India
+2022-08-30 12:04:55,781 - Connectivity_set.class -INFO - The Release date of Pushpa:The Rise as per the IMDB is = 17 December 2021
+2022-08-30 12:04:55,781 - movieStepDef.class -INFO - **************User checks the Extract Country and release date of the movie*********************
+2022-08-30 12:05:01,192 - movieStepDef.class -INFO - **************User navigates to Wikipedia *********************
+2022-08-30 12:05:01,282 - movieStepDef.class -INFO - **************User enters the search terms in the Wikipedia search bar *********************
+2022-08-30 12:05:03,189 - movieStepDef.class -INFO - **************User clicks on the Search button beside the searchbar *********************
+2022-08-30 12:05:04,222 - movieStepDef.class -INFO - **************User selects Pushpa Part 1 from the search result in the Wikipedia Search*********************
+2022-08-30 12:05:04,379 - Connectivity_set.class -INFO - The Origin Coutry as per the Wikipedia is = India
+2022-08-30 12:05:04,457 - Connectivity_set.class -INFO - The Release date of Pushpa:The Rise as per the Wikipedia is = 17 December 2021
+2022-08-30 12:05:04,458 - movieStepDef.class -INFO - **************User checks the Extract Country and release date of the movie in Wikipedia and compares it with the date of release and Extract Country from IMDB*********************
+2022-08-30 12:16:21,104 - movieStepDef.class -INFO - *****************Entering 'Pushpa' in Search Bar********************
+2022-08-30 12:16:25,217 - movieStepDef.class -INFO - **************User clicked on the Search Icon after entering the Movie Name*********************
+2022-08-30 12:16:27,830 - movieStepDef.class -INFO - **************User clicked on the Part 1 of the movie from the result options*********************
+2022-08-30 12:19:02,352 - movieStepDef.class -INFO - *****************Entering 'Pushpa' in Search Bar********************
+2022-08-30 12:19:05,521 - movieStepDef.class -INFO - **************User clicked on the Search Icon after entering the Movie Name*********************
+2022-08-30 12:19:10,439 - movieStepDef.class -INFO - **************User clicked on the Part 1 of the movie from the result options*********************
+2022-08-30 12:19:10,612 - Connectivity_set.class -INFO - The Origin Coutry as per the IMDB is = India
+2022-08-30 12:19:15,305 - Connectivity_set.class -INFO - The Release date of Pushpa:The Rise as per the IMDB is = 17 December 2021
+2022-08-30 12:19:15,306 - movieStepDef.class -INFO - **************User checks the Extract Country and release date of the movie*********************
+2022-08-30 12:19:19,219 - movieStepDef.class -INFO - **************User navigates to Wikipedia *********************
+2022-08-30 12:19:19,280 - movieStepDef.class -INFO - **************User enters the search terms in the Wikipedia search bar *********************
+2022-08-30 12:19:22,141 - movieStepDef.class -INFO - **************User clicks on the Search button beside the searchbar *********************
+2022-08-30 12:19:22,700 - movieStepDef.class -INFO - **************User selects Pushpa Part 1 from the search result in the Wikipedia Search*********************
+2022-08-30 12:19:22,838 - Connectivity_set.class -INFO - The Origin Coutry as per the Wikipedia is = India
+2022-08-30 12:19:22,887 - Connectivity_set.class -INFO - The Release date of Pushpa:The Rise as per the Wikipedia is = 17 December 2021
+2022-08-30 12:19:22,887 - movieStepDef.class -INFO - **************User checks the Extract Country and release date of the movie in Wikipedia and compares it with the date of release and Extract Country from IMDB*********************
+2022-08-30 12:23:53,539 - movieStepDef.class -INFO - *****************Entering 'Pushpa' in Search Bar********************
+2022-08-30 12:23:57,200 - movieStepDef.class -INFO - **************User clicked on the Search Icon after entering the Movie Name*********************
+2022-08-30 12:24:01,844 - movieStepDef.class -INFO - **************User clicked on the Part 1 of the movie from the result options*********************
+2022-08-30 12:24:01,992 - Connectivity_set.class -INFO - The Origin Coutry as per the IMDB is = India
+2022-08-30 12:24:06,278 - Connectivity_set.class -INFO - The Release date of Pushpa:The Rise as per the IMDB is = 17 December 2021
+2022-08-30 12:24:06,279 - movieStepDef.class -INFO - **************User checks the Extract Country and release date of the movie*********************
+2022-08-30 12:24:07,036 - movieStepDef.class -INFO - **************User navigates to Wikipedia *********************
+2022-08-30 12:24:07,101 - movieStepDef.class -INFO - **************User enters the search terms in the Wikipedia search bar *********************
+2022-08-30 12:24:10,882 - movieStepDef.class -INFO - **************User clicks on the Search button beside the searchbar *********************
+2022-08-30 12:24:11,495 - movieStepDef.class -INFO - **************User selects Pushpa Part 1 from the search result in the Wikipedia Search*********************
+2022-08-30 12:24:11,656 - Connectivity_set.class -INFO - The Origin Coutry as per the Wikipedia is = India
+2022-08-30 12:24:11,718 - Connectivity_set.class -INFO - The Release date of Pushpa:The Rise as per the Wikipedia is = 17 December 2021
+2022-08-30 12:24:11,719 - movieStepDef.class -INFO - **************User checks the Extract Country and release date of the movie in Wikipedia and compares it with the date of release and Extract Country from IMDB*********************
+2022-08-30 12:42:24,734 - movieStepDef.class -INFO - *****************Entering 'Pushpa' in Search Bar********************
+2022-08-30 12:42:28,585 - movieStepDef.class -INFO - **************User clicked on the Search Icon after entering the Movie Name*********************
+2022-08-30 12:42:34,058 - movieStepDef.class -INFO - **************User clicked on the Part 1 of the movie from the result options*********************
+2022-08-30 12:42:34,195 - Connectivity_set.class -INFO - The Origin Coutry as per the IMDB is = India
+2022-08-30 12:42:38,239 - Connectivity_set.class -INFO - The Release date of Pushpa:The Rise as per the IMDB is = 17 December 2021
+2022-08-30 12:42:38,239 - movieStepDef.class -INFO - **************User checks the Extract Country and release date of the movie*********************
+2022-08-30 12:42:41,492 - movieStepDef.class -INFO - **************User navigates to Wikipedia *********************
+2022-08-30 12:42:41,562 - movieStepDef.class -INFO - **************User enters the search terms in the Wikipedia search bar *********************
+2022-08-30 12:42:43,864 - movieStepDef.class -INFO - **************User clicks on the Search button beside the searchbar *********************
+2022-08-30 12:42:45,466 - movieStepDef.class -INFO - **************User selects Pushpa Part 1 from the search result in the Wikipedia Search*********************
+2022-08-30 12:42:45,661 - Connectivity_set.class -INFO - The Origin Coutry as per the Wikipedia is = India
+2022-08-30 12:42:45,716 - Connectivity_set.class -INFO - The Release date of Pushpa:The Rise as per the Wikipedia is = 17 December 2021
+2022-08-30 12:42:45,717 - movieStepDef.class -INFO - **************User checks the Extract Country and release date of the movie on Wikipedia*********************
+2022-08-30 12:42:45,717 - movieStepDef.class -INFO - **************User selects Pushpa Part 1 from the search result in the Wikipedia Search*********************
+2022-08-30 12:47:12,508 - movieStepDef.class -INFO - *****************Entering 'Pushpa' in Search Bar********************
+2022-08-30 12:47:16,262 - movieStepDef.class -INFO - **************User clicked on the Search Icon after entering the Movie Name*********************
+2022-08-30 12:47:23,407 - movieStepDef.class -INFO - **************User clicked on the Part 1 of the movie from the result options*********************
+2022-08-30 12:47:23,752 - Connectivity_set.class -INFO - The Origin Coutry as per the IMDB is = India
+2022-08-30 12:47:28,739 - Connectivity_set.class -INFO - The Release date of Pushpa:The Rise as per the IMDB is = 17 December 2021
+2022-08-30 12:47:28,739 - movieStepDef.class -INFO - **************User checks the Extract Country and release date of the movie*********************
+2022-08-30 12:47:31,613 - movieStepDef.class -INFO - **************User navigates to Wikipedia *********************
+2022-08-30 12:47:31,677 - movieStepDef.class -INFO - **************User enters the search terms in the Wikipedia search bar *********************
+2022-08-30 12:47:34,593 - movieStepDef.class -INFO - **************User clicks on the Search button beside the searchbar *********************
+2022-08-30 12:47:35,662 - movieStepDef.class -INFO - **************User selects Pushpa Part 1 from the search result in the Wikipedia Search*********************
+2022-08-30 12:47:35,853 - Connectivity_set.class -INFO - The Origin Coutry as per the Wikipedia is = India
+2022-08-30 12:47:35,914 - Connectivity_set.class -INFO - The Release date of Pushpa:The Rise as per the Wikipedia is = 17 December 2021
+2022-08-30 12:47:35,914 - movieStepDef.class -INFO - **************User checks the Extract Country and release date of the movie on Wikipedia*********************
+2022-08-30 12:47:35,915 - movieStepDef.class -INFO - **************User selects Pushpa Part 1 from the search result in the Wikipedia Search*********************

@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Step_Definition.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 20.157 s <<< FAILURE! - in Step_Definition.TestRunner
+To Validate Release Date and Extract Country of movie Pushpa(Comparing the Release date and Extract Country of "Pushpa: The Rise" on IMDB and Wiki)  Time elapsed: 19.115 s  <<< ERROR!
+java.lang.ClassCastException: com.sun.proxy.$Proxy15 cannot be cast to org.openqa.selenium.By
+
